@@ -7,6 +7,5 @@ I'm Luis, a school student with interest about Programming.
 - :pushpin: Interests: Obfuscation, Protection, UI Design.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luis-nrs&theme=default) 
-![](https://www.freecodecamp.org/certification/Luis-nrs/foundational-c-sharp-with-microsoft) 
 
 ----
