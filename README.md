@@ -14,6 +14,3 @@
 ## :pushpin: Interests
 - 🕵️‍♂️ Obfuscation
 - 🎨 UI Design
-
-## :school: Education
-I am currently pursuing a dual education in application development at <a href="https://www.oszimt.de/" target="_blank">OSZ IMT</a>.
